@@ -23,3 +23,7 @@ Date: August 13, 2025
 ![Screenshot of interface VisualRecon](images/VisualRecon.png)
 ### Advanced Recon
 ![Screenshot of interface AdvancedRecon](images/AdvancedRecon.png)
+
+## Mission Control
+![Screenshot](images/MissionControl.png)
+![Screenshot](images/diagnostics.png)
